@@ -1,0 +1,16 @@
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\test5\obj\Debug\test5.csproj.AssemblyReference.cache
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\test5\obj\Debug\test5.csproj.SuggestedBindingRedirects.cache
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\test5\obj\Debug\test5.csproj.CoreCompileInputs.cache
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\test5\bin\Debug\test5.exe.config
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\test5\bin\Debug\test5.exe
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\test5\bin\Debug\test5.pdb
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\test5\obj\Debug\test5.exe
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\test5\obj\Debug\test5.pdb
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\bin\Debug\test5.exe.config
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\bin\Debug\test5.exe
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\bin\Debug\test5.pdb
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\obj\Debug\test5.csproj.AssemblyReference.cache
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\obj\Debug\test5.csproj.SuggestedBindingRedirects.cache
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\obj\Debug\test5.csproj.CoreCompileInputs.cache
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\obj\Debug\test5.exe
+C:\Users\nilso\OneDrive\Documentos\ENTREVISTA\internship_php\projeto\test5\obj\Debug\test5.pdb
